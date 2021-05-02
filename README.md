@@ -1,2 +1,2 @@
 # DataAndFileStructuresPrograms
-Data and Files structures programs performed in class.
+Data and File structures programs performed in class.
